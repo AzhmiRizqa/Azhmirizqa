@@ -1,0 +1,29 @@
+* {
+  font-family: "Comfortaa", cursive;
+}
+
+
+
+.jumbotron {
+  background-color: #a2d9ff;
+  color: rgb(232, 238, 222);
+  margin-top: 50px;
+}
+.display-4 {
+  font-family: "Dancing Script", cursive;
+}
+
+#projects {
+  background-color: #a2d9ff;
+}
+.navbar {
+  background-color: rgb(52, 98, 189);
+}
+
+footer {
+  background-color: rgb(52, 98, 189);
+}
+
+section {
+  padding-top:70px;
+}
